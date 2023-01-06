@@ -28,13 +28,3 @@ To demonstrate how to use ArgoCD to control Pulsar Custom Resources (CRs) by mon
 ## 6. SN-Platform Self-signed TLS
 
 [Lab 6](https://github.com/streamnative/global-se-practice/tree/pulsar-ops/Lab%206%20-%20sn-platform%20self-sign.md) describe how to setup self-signed tls without cert-manager
-
----
-## Some sn-platform examples
-
-* [1-basic](sn-platform/1-basic.yaml) - 3 zk, 3 bk, 1 br and 1 autorecovery.
-* [2-basic_toolset](sn-platform/2-basic_toolset.yaml) - 3 zk, 3 bk, 1 br and 1 toolset.
-* [3-basic_proxy](sn-platform/3-basic_proxy.yaml) - 3 zk, 3 bk, 2 br and 1 proxy.
-* [4-basic_monitoring](sn-platform/4-basic_monitoring.yaml) - 3 zk, 3 bk, 2br, 1 proxy, prome and grafana
-* [5-basic_monitoring_2.9.3.2](sn-platform/5-basic_monitoring_2.9.3.2.yaml) - upgrade images from 2.9.2.10 to 2.9.3.2
-* [6-basic_monitoring_2.10.1.3](sn-platform/6-basic_monitoring_2.10.1.3.yaml) - upgrade images to 2.10.1.3
