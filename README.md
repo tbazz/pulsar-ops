@@ -20,11 +20,3 @@ To demonstrate how to use ArgoCD to control Pulsar Custom Resources (CRs) by mon
 ## 4. Use SN-Platform to compose Pulsar cluster
 
 [Lab 4](https://github.com/streamnative/global-se-practice/tree/pulsar-ops/Lab%204%20-%20sn-platform%20install.md) describes the instructions of sn-platform composition.
-
-## 5. SN-Platform Deep Dive
-
-[Lab 5](https://github.com/streamnative/global-se-practice/tree/pulsar-ops/Lab%205%20-%20sn-platform%20Deep%20Dive.md) describes the instructions of sn-platform deep dive
-
-## 6. SN-Platform Self-signed TLS
-
-[Lab 6](https://github.com/streamnative/global-se-practice/tree/pulsar-ops/Lab%206%20-%20sn-platform%20self-sign.md) describe how to setup self-signed tls without cert-manager
