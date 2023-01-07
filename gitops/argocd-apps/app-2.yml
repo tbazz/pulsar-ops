@@ -11,6 +11,6 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: argocd/my-apps/app-2
+    path: gitops/my-apps/app-2
     repoURL: https://github.com/tbazz/pulsar-ops.git
     targetRevision: HEAD
